@@ -1,3 +1,4 @@
 public class Emp implements java.io.Serializable(){
-	private Integer deptno;
+	private Integer empno;
+	private String ename;
 }

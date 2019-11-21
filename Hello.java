@@ -1,8 +1,7 @@
+import java.util.*;
 public class Hello(){
 	public static void main(String[] args) {
-		//System.out.println("Hello GIT!");
-		System.out.println("Today is Good!");
-		System.out.println("Tomorrow will be Good!");
-		System.out.println("Hello New World!");
+		System.out.println("解决冲突问题!");
+		Date date = new Date();
 	}
 }

@@ -6,5 +6,6 @@ public class Hello(){
 		Emp emp = new Emp();
 		System.out.println("解决冲突问题!");
 		Date date = new Date();
+		System.out.println("分支合并模式!");
 	}
 }

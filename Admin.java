@@ -1,6 +1,6 @@
-import java.util.List;
+package cn.mldn.vo;
+import java.io.*;
 public class Admin(){
-	private List<Emp> emps;
 	private String adminId;
-	private List<Action> admins;
+	private String password;
 }

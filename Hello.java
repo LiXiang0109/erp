@@ -10,5 +10,6 @@ public class Hello(){
 		System.out.println("分支合并模式!");
 		System.out.println("分支合并模式!");
 		Dept dept = new Dept();
+		System.out.println("今天天气不错!");
 	}
 }

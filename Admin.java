@@ -1,6 +1,5 @@
-import java.util.List;
+import cn.mmldn.demo;
 public class Admin(){
-	private List<Emp> emps;
 	private String adminId;
-	private List<Action> admins;
+	private String password;
 }
